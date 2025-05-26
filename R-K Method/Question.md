@@ -29,10 +29,10 @@ $$
 ---
 (1)
 
-![RK1.png](/figure/RK1.png)
+![RK1.png](R-K Method/figure/RK1.png)
 
 (2)
-![RK2.png](/figure/RK2.png)
+![RK2.png](R-K Method/figure/RK2.png)
 
 (4)
-![RK3.png](/figure/RK3.png)
+![RK3.png](R-K Method/figure/RK3.png)
