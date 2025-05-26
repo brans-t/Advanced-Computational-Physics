@@ -27,12 +27,19 @@ $$
 ## Solve:
 
 ---
-(1)
+### (1)
 
-![RK1.png](R-K Method/figure/RK1.png)
+![RK1](https://github.com/user-attachments/assets/60e214ef-6e08-4db0-b20d-39c4a29cc000)
 
-(2)
-![RK2.png](R-K Method/figure/RK2.png)
 
-(4)
-![RK3.png](R-K Method/figure/RK3.png)
+### (2)
+
+
+![RK2](https://github.com/user-attachments/assets/0b4fca21-caeb-40c5-a274-4b8564f7609e)
+
+
+### (4)
+
+
+![RK3](https://github.com/user-attachments/assets/5e0c02eb-9165-4d9d-9f8c-17402b9e255c)
+
