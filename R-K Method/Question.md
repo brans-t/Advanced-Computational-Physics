@@ -28,6 +28,7 @@ $$
 
 ---
 (1)
+![RK1](https://github.com/user-attachments/assets/60e214ef-6e08-4db0-b20d-39c4a29cc000)
 
 ![RK1.png](R-K Method/figure/RK1.png)
 
