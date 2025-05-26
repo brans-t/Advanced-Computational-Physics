@@ -29,10 +29,10 @@ $$
 ---
 (1)
 
-![[Pasted image 20250526170144.png]]
+![RK1.png](/figure/RK1)
 
 (2)
-![[Pasted image 20250526170455.png]]
+![RK2.png](/figure/RK2)
 
 (4)
-![[Pasted image 20250526170947.png]]
+![RK3.png](/figure/RK3)
